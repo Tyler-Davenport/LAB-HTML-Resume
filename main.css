@@ -1,3 +1,32 @@
 body {
-  background-color: orange;
+  background-color: blanchedalmond;
+}
+#header {
+  font-family: fantasy;
+  text-align: center;
+  color: midnightblue;
+}
+#jmikes {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: midnightblue;
+  background-color: aliceblue;
+  border: 2px dotted navy;
+  margin-bottom: 10px;
+}
+#boswells {
+  font-family: monospace;
+  color: midnightblue;
+  background-color: aliceblue;
+  border: 5px double orangered;
+  margin-bottom: 10px;
+}
+#mcalisters {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: midnightblue;
+  background-color: aliceblue;
+  border: 3px dashed rgb(55, 121, 55);
+  margin-bottom: 10px;
+}
+hr.line {
+  border-top: 2px solid black;
 }
